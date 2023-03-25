@@ -17,6 +17,8 @@ public class Main {
                System.out.println(n.toLowerCase());
                System.out.println(n.length());
                System.out.println(n.trim());*/
+
+        System.out.println("Hello world");
             }
     }
 
